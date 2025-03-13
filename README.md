@@ -18,20 +18,10 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-
-</div>
 
 ###
 
 [<img height="80" width="80" src="https://cdn.simpleicons.org/python" alt="python logo"/>](https://python.org)
 [<img height="80" width="80" src="ibis.jpg" alt="ibis logo" />](https://ibis-project.org/)
-[<img height="80" width="80" src="https://cdn.simpleicons.org/aws" alt="aws logo"/>](https://python.org)
-![image](https://github.com/user-attachments/assets/9698950f-f581-42c7-9f5a-1708460ce0fe)
+[<img height="80" width="80" src="https://cdn.simpleicons.org/taipy" alt="taipy logo"/>](https://python.org)
+[<img height="80" width="80" src="https://cdn.simpleicons.org/amazonwebservices" alt="aws logo"/>](https://python.org)
