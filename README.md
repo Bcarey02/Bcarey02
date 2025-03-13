@@ -16,8 +16,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+[<img height="80" width="230" src="MU.jpg" alt="<MU logo" />](https://manhattan.edu/)
 
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
