@@ -28,3 +28,10 @@
   <img width="12" />
 
 </div>
+
+###
+
+[<img height="80" width="80" src="https://cdn.simpleicons.org/python" alt="python logo"/>](https://python.org)
+[<img height="80" width="80" src="ibis.jpg" alt="ibis logo" />](https://ibis-project.org/)
+[<img height="80" width="80" src="https://cdn.simpleicons.org/aws" alt="aws logo"/>](https://python.org)
+![image](https://github.com/user-attachments/assets/9698950f-f581-42c7-9f5a-1708460ce0fe)
