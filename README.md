@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome!</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Brendan from the Bronx, NY <br><br>- 🔭 I’m working as a digital presence and web development intern at Redhand Advisors<br>- 📚 I'm a senior computer information systems major at Manhattan University <br>- ⚡ In my free time I ...</p>
 
 ###
 
