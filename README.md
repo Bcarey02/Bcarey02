@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Brendan from the Bronx, NY <br><br>- 🔭 I’m working as a digital presence and web development intern at Redhand Advisors<br>- 📚 I'm a senior computer information systems major at Manhattan University <br>- ⚡ In my free time I like to play guitar and skate</p>
+<p align="left">I'm Brendan from the Bronx, NY <br><br>- 🔭 I’m working as a digital presence and web development intern at Redhand Advisors<br>- 📚 I'm a recently graduated computer information systems major at Manhattan University <br>- ⚡ In my free time I like to play guitar and go to the gym</p>
 
 ###
 
