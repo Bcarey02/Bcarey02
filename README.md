@@ -25,7 +25,6 @@
 ###
 
 [<img height="80" width="80" src="https://cdn.simpleicons.org/python" alt="python logo"/>](https://python.org)
-[<img height="80" width="80" src="https://cdn.simpleicons.org/amazonwebservices" alt="aws logo"/>](https://python.org)
 [<img height="80" width="80" src="https://cdn.simpleicons.org/mysql" alt="mysql logo"/>](https://python.org)
 [<img height="80" width="80" src="https://cdn.simpleicons.org/linux" alt="linux logo"/>](https://python.org)
 [<img height="80" width="80" src="https://cdn.simpleicons.org/r" alt="r logo"/>](https://python.org)
