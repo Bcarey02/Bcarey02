@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Brendan Carey from the Riverdale (Bronx), NY <br><br>- 🔭 I’m working as a digital presence and web development intern at Redhand Advisors<br>- 📚 I'm a recently graduated computer information systems major at Manhattan University <br>- ⚡ In my free time I like to play guitar and go to the gym</p>
+<p align="left">I'm Brendan Carey from Riverdale (Bronx), NY <br><br>- 🔭 I’m working as a digital presence and web development intern at Redhand Advisors<br>- 📚 I'm a recently graduated computer information systems major at Manhattan University <br>- ⚡ In my free time I like to play guitar and go to the gym</p>
 
 ###
 
